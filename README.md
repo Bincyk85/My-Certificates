@@ -7,3 +7,4 @@ Learned fundamentals of Full Stack Development, including Frontend, Backend, and
 Skills: Java | Full Stack | Software Development | Git & GitHub
 Certificate Link: [View Certificate]
 #SkillUp #Simplilearn #FullStack #Java
+https://lnkd.in/p/gEM5FAZ2
